@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="lt" datatype="plaintext" original="file.ext">
+    <body>
+      <trans-unit id="b35abff3ac27033d049562863e7e61d1" resname="sylius.checkout.success">
+        <source>sylius.checkout.success</source>
+        <target>Ačiū už Jūsų užsakymą!</target>
+      </trans-unit>
+      <trans-unit id="b35abff3ac27033d049562863e7e61d2" resname="sylius.checkout.restricted_zone">
+        <source>sylius.checkout.restricted_zone</source>
+        <target>Ši prekė neparduodama Jūsų šalyje.</target>
+      </trans-unit>
+      <trans-unit id="b35abff3ac27033d049562863e7e61d2" resname="sylius.cart.restricted_zone_removal">
+        <source>sylius.cart.restricted_zone_removal</source>
+        <target>%product% prekė buvo pašalinta iš krepšelio, nes ji neparduodama Jūsų šalyje.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
